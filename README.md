@@ -1,6 +1,6 @@
 Nama Produk : WebGIS Pariwisata di Nagari Minangkabau
 
-Deskripsi : Sistem Informasi Geografis Pariwisata Sumatera Barat berbasis web adalah aplikasi yang mengintegrasikan data spasial dan atribut destinasi pariwisata menggunakan teknologi WebGIS. Aplikasi ini dibangun dengan arsitektur client-server menggunakan Leaflet.js sebagai library peta interaktif, PHP Native untuk backend processing, MySQL sebagai database management system, dan GeoServer untuk layanan Web Map Service (WMS). Fitur utama meliputi visualisasi peta interaktif, manajemen data CRUD, pencarian lokasi, serta analisis spasial distribusi destinasi wisata. Penelitian ini bertujuan untuk menyediakan platform digital yang memudahkan akses informasi pariwisata Sumatera Barat secara spasial dan atributif.
+Deskripsi : WebGIS Pariwisata Sumatera Barat adalah aplikasi web berbasis sistem informasi geografis yang menampilkan informasi destinasi wisata di Sumatera Barat. Website ini terdiri dari tiga halaman utama: Landing Page yang menampilkan overview pariwisata, Peta Interaktif yang menampilkan lokasi wisata menggunakan Leaflet.js dengan marker clustering, dan halaman Data Wisata yang menampilkan informasi detail dalam bentuk tabel interaktif dengan fitur pencarian dan sorting menggunakan DataTables. Semua data disimpan dalam database MySQL dan diakses melalui API PHP.
 
 Teknologi Pembangun Produk :
 ### Frontend
